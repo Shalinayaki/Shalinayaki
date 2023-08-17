@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shalinayaki
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Analytics
 
 
 <!---
